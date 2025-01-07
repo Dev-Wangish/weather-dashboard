@@ -2,6 +2,12 @@
 
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
+## Visual Diagram
+![alt text](<Screenshot from 2025-01-07 17-31-50.png>)
+
+## AWS S3 Bucket with json Data
+![alt text](<Screenshot from 2025-01-07 19-47-06.png>)
+
 # Weather Data Collection System - DevOps Day 1 Challenge
 
 ## Project Overview
